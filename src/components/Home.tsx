@@ -10,8 +10,7 @@ function Home({ onNavigate }: HomeProps) {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{
-          backgroundImage:
-            'url(https://images.pexels.com/photos/3807517/pexels-photo-3807517.jpeg?auto=compress&cs=tinysrgb&w=2000)',
+          backgroundImage: 'url(/vehicle-road.jpg)',
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 via-slate-900/60 to-blue-900/50"></div>
